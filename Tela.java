@@ -80,7 +80,7 @@ public class Tela extends Frame{
          */
         add("Nort", p1);
         //Instância da classe "Label"
-        imprimir = new Label();
+        imprimir = new Label("Teste Tela JAVA AWT!!");
         /*
          * Método "add" sendo usado para associar um componente visual ao Panel
          */
